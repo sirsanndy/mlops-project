@@ -1,0 +1,4 @@
+.env
+notebook/src/__pycache__/utils.cpython-312.pyc
+src/__pycache__/utils.cpython-312.pyc
+.dvc/config
