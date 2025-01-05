@@ -1,0 +1,6 @@
+outs:
+- md5: be59e9c09d50249e1861285b819d6a35
+  size: 319020
+  isexec: true
+  hash: md5
+  path: car_dataset.pkl

@@ -1,0 +1,6 @@
+outs:
+- md5: f58015ded7c78caf7b8d07c4101119ac
+  size: 649
+  isexec: true
+  hash: md5
+  path: ohe_persons.pkl

@@ -1,0 +1,6 @@
+outs:
+- md5: 0c90f90fb2a7bd6d6378ecbd610df1c7
+  size: 681
+  isexec: true
+  hash: md5
+  path: ohe_buying.pkl

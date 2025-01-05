@@ -1,0 +1,6 @@
+outs:
+- md5: d6203e9ead42ea9b712f2a0d1aac12f9
+  size: 276
+  isexec: true
+  hash: md5
+  path: car.c45-names

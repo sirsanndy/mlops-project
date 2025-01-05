@@ -1,0 +1,6 @@
+outs:
+- md5: a7cc161391b3c8de17f04dc835fbbf68
+  size: 51867
+  isexec: true
+  hash: md5
+  path: car.data
